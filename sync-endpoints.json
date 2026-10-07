@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-07",
+  "endpoints": [
+    "https://web-production-6cf75.up.railway.app",
+    "https://web-production-f00a1.up.railway.app"
+  ]
+}
